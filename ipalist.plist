@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://121.42.149.242/resources/ipalogo.png</string>
+					<string>http://121.42.149.242/resources/img/iphone.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://121.42.149.242/resources/ipalogo.png</string>
+					<string>http://121.42.149.242/resources/img/iphone.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bangxin.oa</string>
+				<string>com.zhaoyinzi.app</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>测试</string>
 				<key>title</key>
-				<string>OA</string>
+				<string>找银子</string>
 			</dict>
 		</dict>
 	</array>
